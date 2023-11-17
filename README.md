@@ -189,8 +189,8 @@ For any feedback or support related inquiries, please contact me at https://pran
     Devansh Agrawal
     Pranav Dharme
     Garvit Verma
-    Pavani
-    Shreesha
+    Pavani Sri Satvika Gutthula
+    Pulipati Sreesha
 
 ## 
 
