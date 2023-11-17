@@ -1,0 +1,51 @@
+{
+    "HumanAgent": {
+        "checkpoints": [
+            {
+                "steps": 3840,
+                "file_path": "results\\miId3\\HumanAgent\\HumanAgent-3840.onnx",
+                "reward": null,
+                "creation_time": 1698847723.31687,
+                "auxillary_file_paths": [
+                    "results\\miId3\\HumanAgent\\HumanAgent-3840.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3840,
+            "file_path": "results\\miId3\\HumanAgent.onnx",
+            "reward": null,
+            "creation_time": 1698847723.31687,
+            "auxillary_file_paths": [
+                "results\\miId3\\HumanAgent\\HumanAgent-3840.pt"
+            ]
+        }
+    },
+    "Agent": {
+        "checkpoints": [
+            {
+                "steps": 21452,
+                "file_path": "results\\miId3\\Agent\\Agent-21452.onnx",
+                "reward": -1.8176317034583342,
+                "creation_time": 1698847723.5681767,
+                "auxillary_file_paths": [
+                    "results\\miId3\\Agent\\Agent-21452.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 21452,
+            "file_path": "results\\miId3\\Agent.onnx",
+            "reward": -1.8176317034583342,
+            "creation_time": 1698847723.5681767,
+            "auxillary_file_paths": [
+                "results\\miId3\\Agent\\Agent-21452.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}

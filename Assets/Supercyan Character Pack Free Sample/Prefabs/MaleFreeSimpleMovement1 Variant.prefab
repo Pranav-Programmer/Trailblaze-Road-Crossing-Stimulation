@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7999783401857679607
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_Model
+      value: 
+      objectReference: {fileID: 5022602860645237092, guid: 7bf0c4dd0f4a40649b834a0b9c13e5df,
+        type: 3}
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_BehaviorName
+      value: HumanAgent
+      objectReference: {fileID: 0}
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_BrainParameters.VectorObservationSize
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.data[0]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_BrainParameters.VectorActionSize.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.BranchSizes.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.BranchSizes.Array.data[0]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8327644022120800001, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: m_BrainParameters.m_ActionSpec.BranchSizes.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1824340380413090, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_Name
+      value: MaleFreeSimpleMovement1 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.77252525
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 51.202892
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549428611729446, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6652280960517341110, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      propertyPath: MaxStep
+      value: 1000
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6652280960517341110, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1824340380413090, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9194935899459435910}
+    - targetCorrespondingSourceObject: {fileID: 1824340380413090, guid: 6b8decb942ae3714c823c0d699de1c41,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3977751988682088264}
+  m_SourcePrefab: {fileID: 100100000, guid: 6b8decb942ae3714c823c0d699de1c41, type: 3}
+--- !u!1 &7999109428204399701 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1824340380413090, guid: 6b8decb942ae3714c823c0d699de1c41,
+    type: 3}
+  m_PrefabInstance: {fileID: 7999783401857679607}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9194935899459435910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7999109428204399701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a5c9d521e5ef4759a8246a07d52221e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DecisionPeriod: 5
+  TakeActionsBetweenDecisions: 1
+--- !u!114 &3977751988682088264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7999109428204399701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb6b867a41448888c1cd4f99643ad71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SensorName: RayPerceptionSensor
+  m_DetectableTags: []
+  m_RaysPerDirection: 20
+  m_MaxRayDegrees: 174
+  m_SphereCastRadius: 0
+  m_RayLength: 20
+  m_RayLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967291
+  m_ObservationStacks: 1
+  rayHitColor: {r: 1, g: 0, b: 0, a: 1}
+  rayMissColor: {r: 1, g: 1, b: 1, a: 1}
+  m_StartVerticalOffset: 0
+  m_EndVerticalOffset: 0

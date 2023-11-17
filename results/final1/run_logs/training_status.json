@@ -1,0 +1,132 @@
+{
+    "HumanAgent": {
+        "checkpoints": [
+            {
+                "steps": 99918,
+                "file_path": "results\\final1\\HumanAgent\\HumanAgent-99918.onnx",
+                "reward": 6.7905953760657995,
+                "creation_time": 1698852906.4442594,
+                "auxillary_file_paths": [
+                    "results\\final1\\HumanAgent\\HumanAgent-99918.pt"
+                ]
+            },
+            {
+                "steps": 199994,
+                "file_path": "results\\final1\\HumanAgent\\HumanAgent-199994.onnx",
+                "reward": 11.03166667620341,
+                "creation_time": 1698853327.6737208,
+                "auxillary_file_paths": [
+                    "results\\final1\\HumanAgent\\HumanAgent-199994.pt"
+                ]
+            },
+            {
+                "steps": 216675,
+                "file_path": "results\\final1\\HumanAgent\\HumanAgent-216675.onnx",
+                "reward": 8.458050764213175,
+                "creation_time": 1698853396.2793434,
+                "auxillary_file_paths": [
+                    "results\\final1\\HumanAgent\\HumanAgent-216675.pt"
+                ]
+            },
+            {
+                "steps": 286930,
+                "file_path": "results\\final1\\HumanAgent\\HumanAgent-286930.onnx",
+                "reward": null,
+                "creation_time": 1698853835.031876,
+                "auxillary_file_paths": [
+                    "results\\final1\\HumanAgent\\HumanAgent-286930.pt"
+                ]
+            },
+            {
+                "steps": 299916,
+                "file_path": "results\\final1\\HumanAgent\\HumanAgent-299916.onnx",
+                "reward": 14.580624341964722,
+                "creation_time": 1698854002.9160302,
+                "auxillary_file_paths": [
+                    "results\\final1\\HumanAgent\\HumanAgent-299916.pt"
+                ]
+            },
+            {
+                "steps": 399987,
+                "file_path": "results\\final1\\HumanAgent\\HumanAgent-399987.onnx",
+                "reward": 17.502856867653982,
+                "creation_time": 1698854261.9249933,
+                "auxillary_file_paths": [
+                    "results\\final1\\HumanAgent\\HumanAgent-399987.pt"
+                ]
+            },
+            {
+                "steps": 495246,
+                "file_path": "results\\final1\\HumanAgent\\HumanAgent-495246.onnx",
+                "reward": 6.302500116825104,
+                "creation_time": 1698854585.7396138,
+                "auxillary_file_paths": [
+                    "results\\final1\\HumanAgent\\HumanAgent-495246.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 495246,
+            "file_path": "results\\final1\\HumanAgent.onnx",
+            "reward": 6.302500116825104,
+            "creation_time": 1698854585.7396138,
+            "auxillary_file_paths": [
+                "results\\final1\\HumanAgent\\HumanAgent-495246.pt"
+            ]
+        }
+    },
+    "Agent": {
+        "checkpoints": [
+            {
+                "steps": 99953,
+                "file_path": "results\\final1\\Agent\\Agent-99953.onnx",
+                "reward": 17.48999969959259,
+                "creation_time": 1698853333.2612593,
+                "auxillary_file_paths": [
+                    "results\\final1\\Agent\\Agent-99953.pt"
+                ]
+            },
+            {
+                "steps": 107965,
+                "file_path": "results\\final1\\Agent\\Agent-107965.onnx",
+                "reward": null,
+                "creation_time": 1698853396.0803258,
+                "auxillary_file_paths": [
+                    "results\\final1\\Agent\\Agent-107965.pt"
+                ]
+            },
+            {
+                "steps": 143661,
+                "file_path": "results\\final1\\Agent\\Agent-143661.onnx",
+                "reward": 7.163448605044135,
+                "creation_time": 1698853834.8594277,
+                "auxillary_file_paths": [
+                    "results\\final1\\Agent\\Agent-143661.pt"
+                ]
+            },
+            {
+                "steps": 150593,
+                "file_path": "results\\final1\\Agent\\Agent-150593.onnx",
+                "reward": 8.216176562449512,
+                "creation_time": 1698854585.4953485,
+                "auxillary_file_paths": [
+                    "results\\final1\\Agent\\Agent-150593.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 150593,
+            "file_path": "results\\final1\\Agent.onnx",
+            "reward": 8.216176562449512,
+            "creation_time": 1698854585.4953485,
+            "auxillary_file_paths": [
+                "results\\final1\\Agent\\Agent-150593.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "2.1.0+cpu"
+    }
+}

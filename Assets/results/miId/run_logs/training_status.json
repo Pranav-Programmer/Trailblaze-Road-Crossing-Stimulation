@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "2.1.0+cpu"
+    },
+    "Agent": {
+        "checkpoints": [
+            {
+                "steps": 19315,
+                "file_path": "results\\miId\\Agent\\Agent-19315.onnx",
+                "reward": -2.8623076654397526,
+                "creation_time": 1698758441.054483,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-19315.pt"
+                ]
+            },
+            {
+                "steps": 99940,
+                "file_path": "results\\miId\\Agent\\Agent-99940.onnx",
+                "reward": 5.782931237385191,
+                "creation_time": 1698771097.7445648,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-99940.pt"
+                ]
+            },
+            {
+                "steps": 199942,
+                "file_path": "results\\miId\\Agent\\Agent-199942.onnx",
+                "reward": 13.146724404959842,
+                "creation_time": 1698771326.1614003,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-199942.pt"
+                ]
+            },
+            {
+                "steps": 299978,
+                "file_path": "results\\miId\\Agent\\Agent-299978.onnx",
+                "reward": 8.80841469473955,
+                "creation_time": 1698771561.0842726,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-299978.pt"
+                ]
+            },
+            {
+                "steps": 399910,
+                "file_path": "results\\miId\\Agent\\Agent-399910.onnx",
+                "reward": 18.217608731725942,
+                "creation_time": 1698771786.528384,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-399910.pt"
+                ]
+            },
+            {
+                "steps": 499968,
+                "file_path": "results\\miId\\Agent\\Agent-499968.onnx",
+                "reward": 16.626071631908417,
+                "creation_time": 1698772014.622159,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-499968.pt"
+                ]
+            },
+            {
+                "steps": 599994,
+                "file_path": "results\\miId\\Agent\\Agent-599994.onnx",
+                "reward": 13.206528299384647,
+                "creation_time": 1698772233.3183434,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-599994.pt"
+                ]
+            },
+            {
+                "steps": 699955,
+                "file_path": "results\\miId\\Agent\\Agent-699955.onnx",
+                "reward": 13.413043861803802,
+                "creation_time": 1698772454.500063,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-699955.pt"
+                ]
+            },
+            {
+                "steps": 799976,
+                "file_path": "results\\miId\\Agent\\Agent-799976.onnx",
+                "reward": 12.815200262069702,
+                "creation_time": 1698772673.4532228,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-799976.pt"
+                ]
+            },
+            {
+                "steps": 899979,
+                "file_path": "results\\miId\\Agent\\Agent-899979.onnx",
+                "reward": 13.272954973307522,
+                "creation_time": 1698772891.6963394,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-899979.pt"
+                ]
+            },
+            {
+                "steps": 999917,
+                "file_path": "results\\miId\\Agent\\Agent-999917.onnx",
+                "reward": 26.77000093460083,
+                "creation_time": 1698773115.0672994,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-999917.pt"
+                ]
+            },
+            {
+                "steps": 1099996,
+                "file_path": "results\\miId\\Agent\\Agent-1099996.onnx",
+                "reward": 16.842564115157494,
+                "creation_time": 1698773334.6731126,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-1099996.pt"
+                ]
+            },
+            {
+                "steps": 1199905,
+                "file_path": "results\\miId\\Agent\\Agent-1199905.onnx",
+                "reward": 20.41594616142479,
+                "creation_time": 1698773559.260706,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-1199905.pt"
+                ]
+            },
+            {
+                "steps": 1299957,
+                "file_path": "results\\miId\\Agent\\Agent-1299957.onnx",
+                "reward": 19.16615376717005,
+                "creation_time": 1698773775.0886438,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-1299957.pt"
+                ]
+            },
+            {
+                "steps": 1399983,
+                "file_path": "results\\miId\\Agent\\Agent-1399983.onnx",
+                "reward": 16.05822940170765,
+                "creation_time": 1698773998.166079,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-1399983.pt"
+                ]
+            },
+            {
+                "steps": 1499929,
+                "file_path": "results\\miId\\Agent\\Agent-1499929.onnx",
+                "reward": 8.48749852180481,
+                "creation_time": 1698774234.820279,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-1499929.pt"
+                ]
+            },
+            {
+                "steps": 1599895,
+                "file_path": "results\\miId\\Agent\\Agent-1599895.onnx",
+                "reward": null,
+                "creation_time": 1698774478.3911397,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-1599895.pt"
+                ]
+            },
+            {
+                "steps": 1695623,
+                "file_path": "results\\miId\\Agent\\Agent-1695623.onnx",
+                "reward": null,
+                "creation_time": 1698774720.4095457,
+                "auxillary_file_paths": [
+                    "results\\miId\\Agent\\Agent-1695623.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1695623,
+            "file_path": "results\\miId\\Agent.onnx",
+            "reward": null,
+            "creation_time": 1698774720.4095457,
+            "auxillary_file_paths": [
+                "results\\miId\\Agent\\Agent-1695623.pt"
+            ]
+        }
+    }
+}
