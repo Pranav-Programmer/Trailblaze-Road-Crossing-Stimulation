@@ -184,6 +184,13 @@ We welcome feedback and contributions from the community to improve Trailblaze. 
 
 For any feedback or support related inquiries, please contact me at https://pranav-programmer.github.io/Contact-Form/
 
+ ## contributors
+
+    Devansh Agrawal
+    Pranav Dharme
+    Garvit Verma
+    Pavani
+    Shreesha
 
 ## 
 
